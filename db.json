@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "waqar",
+      "username": "waqar khan",
+      "email": "waqarkhan625@gmail.com",
+      "phone": "0234545566",
+      "websit": "google.com",
+      "id": 1
+    },
+    {
+      "name": "shoaib khan",
+      "username": "waqar khan",
+      "email": "waqarkhan625@gmail.com",
+      "phone": "0234545566",
+      "websit": "sl;wqlwq",
+      "id": 2
+    },
+    {
+      "name": "llnnnnn",
+      "username": "nnnnn",
+      "email": "shoaibsoomro@gmail.com",
+      "phone": "nnnnn",
+      "websit": "nnnnnn",
+      "id": 5
+    },
+    {
+      "name": "tahir",
+      "username": "hhhhh",
+      "email": "shoaibkhanu39@gmail.com",
+      "phone": "0234545566",
+      "websit": "naveed.com",
+      "id": 6
+    },
+    {
+      "name": "SHOIAN ",
+      "username": "shoaibkhanu39@gmail.com",
+      "email": "shoaibsoomro@gmail.com",
+      "phone": "03420377349",
+      "websit": "gethub",
+      "id": 7
+    }
+  ]
+}
